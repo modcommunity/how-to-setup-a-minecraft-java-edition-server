@@ -1,6 +1,6 @@
-![Banner|1000x400](./images/banner.png)
-
 A full guide on how to set up a **Minecraft Java Edition server** on both **Windows** and **Linux (Debian 12)**! This includes installing Java, basic server configuration, and launching the server via startup scripts or using tools like `screen` on Linux.
+
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-set-up-a-minecraft-java-edition-server/)
 
 Whether you're looking to host a small survival server for your friends or create a public modded world, this guide will walk you through what you need to start out!
 
